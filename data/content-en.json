@@ -13,7 +13,7 @@
   "about": {
     "title": "About Me",
     "greeting": "Hello",
-    "profileImage": "/placeholder.svg?height=400&width=400",
+    "profileImage": "/profile.png?height=400&width=400",
     "bio": "I am a writer passionate about crafting stories that explore the human condition. My work spans essays, short stories, and narrative journalism, always seeking to illuminate the extraordinary within the ordinary. Through words, I aim to create bridges between cultures, experiences, and perspectives.",
     "description": "With years of experience in literary writing, I've developed a voice that resonates with readers across different backgrounds. My writing has been featured in various publications, and I continue to explore new narratives that challenge and inspire."
   },

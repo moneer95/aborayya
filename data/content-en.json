@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "header": {
+    "name": "Your Name",
+    "title": "Writer & Storyteller",
+    "navigation": [
+      { "label": "About", "href": "#about" },
+      { "label": "Recent Work", "href": "#recent" },
+      { "label": "Selected Stories", "href": "#stories" },
+      { "label": "Collaborations", "href": "#collaborations" }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "greeting": "Hello",
+    "profileImage": "/placeholder.svg?height=400&width=400",
+    "bio": "I am a writer passionate about crafting stories that explore the human condition. My work spans essays, short stories, and narrative journalism, always seeking to illuminate the extraordinary within the ordinary. Through words, I aim to create bridges between cultures, experiences, and perspectives.",
+    "description": "With years of experience in literary writing, I've developed a voice that resonates with readers across different backgrounds. My writing has been featured in various publications, and I continue to explore new narratives that challenge and inspire."
+  },
+  "recentWork": {
+    "title": "Recent Work",
+    "featured": {
+      "id": "weight-of-silence",
+      "title": "The Weight of Silence",
+      "type": "Essay",
+      "date": "March 2024",
+      "image": "/placeholder.svg?height=600&width=1200",
+      "excerpt": "An exploration of what remains unsaid in our most intimate relationships, and how silence can speak louder than words. This piece examines the spaces between conversations and the profound meanings we find there.",
+      "readTime": "12 min read",
+      "link": "#",
+      "content": "Silence has a weight to it. Not the comfortable quiet of a Sunday morning, but the heavy, pressing silence that fills the space between two people who have run out of words.\n\nI first noticed this weight during a dinner with an old friend. We sat across from each other, forks moving mechanically, eyes avoiding contact. The silence wasn't empty—it was full of everything we couldn't say.\n\nIn our modern world, we've become afraid of silence. We fill every moment with noise, with words, with distractions. But what if silence is trying to tell us something? What if the things we don't say are just as important as the things we do?\n\nThis essay explores the spaces between our words, the pauses in our conversations, and the profound meanings we find in what remains unsaid."
+    }
+  },
+  "selectedStories": {
+    "title": "Selected Stories",
+    "stories": [
+      {
+        "id": "echoes-of-tomorrow",
+        "title": "Echoes of Tomorrow",
+        "type": "Short Story",
+        "date": "January 2024",
+        "image": "/placeholder.svg?height=400&width=600",
+        "excerpt": "A tale of memory and time, where past and future collide in unexpected ways.",
+        "readTime": "8 min read",
+        "link": "#",
+        "content": "The clock on the wall had stopped at 3:47, but nobody seemed to notice. Time had become fluid in this place, bending and stretching like taffy in the summer sun.\n\nShe walked through the corridors of her childhood home, but the walls whispered secrets from a future she hadn't lived yet. Each room held memories that hadn't happened, photographs of moments still to come.\n\nThis is a story about the strange loops of time, about how our past and future are more connected than we think, and about the echoes that ripple through our lives in ways we can't always see."
+      },
+      {
+        "id": "last-garden",
+        "title": "The Last Garden",
+        "type": "Narrative Essay",
+        "date": "November 2023",
+        "image": "/placeholder.svg?height=400&width=600",
+        "excerpt": "Reflections on nature, loss, and the gardens we carry within ourselves.",
+        "readTime": "10 min read",
+        "link": "#",
+        "content": "My grandmother's garden was a universe unto itself. Roses climbed the wooden fence, tomatoes hung heavy on their vines, and somewhere in the back, hidden behind the zucchini plants, was a secret patch of wildflowers that she never tended but somehow always bloomed.\n\nWhen she passed, the garden began to fade. Not all at once, but slowly, like a photograph left too long in the sun. I tried to maintain it, but gardens, I learned, are not just about watering and weeding. They're about love, attention, and a kind of magic that can't be taught.\n\nThis essay is about the gardens we lose and the ones we carry with us, about how nature teaches us to grieve, and about finding beauty in the wild, untended places of our hearts."
+      },
+      {
+        "id": "between-languages",
+        "title": "Between Languages",
+        "type": "Personal Essay",
+        "date": "September 2023",
+        "image": "/placeholder.svg?height=400&width=600",
+        "excerpt": "Growing up between two worlds and finding voice in the space between languages.",
+        "readTime": "15 min read",
+        "link": "#",
+        "content": "There are words in my mother tongue that don't exist in English. Feelings, concepts, entire ways of being that get lost in translation. And there are English words that feel foreign on my tongue, no matter how many years I've lived here.\n\nI grew up in the space between languages, never quite fluent in either, always translating, always explaining. At school, I was too foreign. At home, I was too American. I existed in a liminal space, a third culture that belonged to neither world and somehow to both.\n\nBut in that in-between space, I found something unexpected: a voice that was uniquely mine. This essay explores what it means to live between languages, between cultures, and how that space of not-quite-belonging can become a place of profound creativity and self-discovery."
+      }
+    ]
+  },
+  "collaborations": {
+    "title": "Collaborations",
+    "description": "I've had the privilege of working with distinguished publications and organizations",
+    "partners": [
+      {
+        "name": "Literary Magazine",
+        "description": "Contributing Writer",
+        "logo": "/placeholder.svg?height=80&width=80"
+      },
+      {
+        "name": "Cultural Journal",
+        "description": "Regular Contributor",
+        "logo": "/placeholder.svg?height=80&width=80"
+      },
+      {
+        "name": "Publishing House",
+        "description": "Freelance Editor",
+        "logo": "/placeholder.svg?height=80&width=80"
+      },
+      {
+        "name": "Arts Foundation",
+        "description": "Writer in Residence",
+        "logo": "/placeholder.svg?height=80&width=80"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 All rights reserved",
+    "contact": "Contact me at: writer@example.com"
+  }
+}

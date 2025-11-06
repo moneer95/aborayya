@@ -1,4 +1,4 @@
-"use client"
+'use client'
 
 import { useState, useEffect, Suspense } from "react"
 import { useSearchParams } from "next/navigation"
@@ -12,18 +12,19 @@ import contentEn from "@/data/content-en.json"
 import contentAr from "@/data/content-ar.json"
 
 export default function Home() {
-  const [language, setLanguage] = useState("ar")
+  let [language, setLanguage] = useState("ar")
   const [mounted, setMounted] = useState(false)
   const searchParams = useSearchParams()
 
   useEffect(() => {
     setMounted(true)
 
+    // Check if the language param exists in the search query
     const langFromSearch = searchParams.get("lang")
     if (langFromSearch === "en" || langFromSearch === "ar") {
-      setLanguage(langFromSearch)
+      setLanguage(langFromSearch)  // Update language based on the search parameter
     }
-  }, [searchParams])
+  }, [searchParams])  // The effect will run again when the search params change
 
   const content = language === "en" ? contentEn : contentAr
   const isRTL = language === "ar"

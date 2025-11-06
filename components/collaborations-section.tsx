@@ -27,11 +27,11 @@ export function CollaborationsSection({ content, language }: CollaborationsSecti
           </h2>
           <p className={`text-lg text-muted-foreground mb-12 ${isRTL ? "text-right" : ""}`}>{content.description}</p>
 
-          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="flex items-center justify-center w-full gap-8 ">
             {content.partners.map((partner, index) => (
               <div
                 key={index}
-                className="flex flex-col items-center text-center p-6 rounded-lg bg-card border border-border/50 hover:shadow-md transition-shadow duration-300"
+                className="flex flex-col items-center w-full text-center p-6 rounded-lg bg-card border border-border/50 hover:shadow-md transition-shadow duration-300"
               >
                 <div className="mb-4 relative w-20 h-20 rounded-full bg-muted flex items-center justify-center overflow-hidden">
                   <Image

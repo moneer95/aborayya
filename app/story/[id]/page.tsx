@@ -14,10 +14,11 @@ interface StoryPageProps {
 
 export default async function StoryPage({ params, searchParams }: StoryPageProps) {
   const { id } = await params
-  const { lang = "en" } = await searchParams
+  const { lang } = await searchParams
   const content = lang === "ar" ? contentAr : contentEn
   const isRTL = lang === "ar"
 
+  console.log(lang)
   // Find the story from either featured or stories array
   let story = content.recentWork.featured.id === id ? content.recentWork.featured : null
 
@@ -79,7 +80,7 @@ export default async function StoryPage({ params, searchParams }: StoryPageProps
 
             {/* Story content */}
             <div className={`prose prose-lg max-w-none ${isRTL ? "text-right" : ""}`}>
-              <div className="text-xl leading-relaxed text-foreground/90 mb-8 font-serif">{story.excerpt}</div>
+              {/* <div className="text-xl leading-relaxed text-foreground/90 mb-8 font-serif">{story.excerpt}</div> */}
 
               <div className="space-y-6 text-lg leading-relaxed text-foreground/80">
                 {story.content ? (

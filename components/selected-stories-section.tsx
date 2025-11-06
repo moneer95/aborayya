@@ -30,7 +30,7 @@ export function SelectedStoriesSection({ content, language }: SelectedStoriesSec
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-6xl">
           <h2
-            className={`font-serif text-3xl md:text-5xl font-bold bg-gradient-to-r from-luxury to-accent bg-clip-text text-transparent mb-12 ${isRTL ? "text-right" : ""}`}
+            className={`font-serif text-3xl md:text-5xl font-bold bg-gradient-to-r from-luxury to-accent bg-clip-text text-transparent mb-12 py-1 ${isRTL ? "text-right" : ""}`}
           >
             {content.title}
           </h2>
@@ -64,7 +64,7 @@ export function SelectedStoriesSection({ content, language }: SelectedStoriesSec
                     </h3>
 
                     <p
-                      className={`text-sm leading-relaxed text-foreground/70 mb-4 text-balance ${isRTL ? "text-right" : ""}`}
+                      className={`text-sm line-clamp-1 leading-relaxed text-foreground/70 mb-4 text-balance ${isRTL ? "text-right" : ""}`}
                     >
                       {story.excerpt}
                     </p>

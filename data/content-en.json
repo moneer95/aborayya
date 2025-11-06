@@ -1,102 +1,109 @@
 {
   "language": "en",
   "header": {
-    "name": "Mohammed Abu Raya",
-    "title": "Writer & Storyteller",
+    "name": "Mohammed Mohammed Mohammed Abu Riya",
+    "title": "Writer and Storyteller",
     "navigation": [
-      { "label": "About", "href": "#about" },
-      { "label": "Recent Work", "href": "#recent" },
-      { "label": "Selected Stories", "href": "#stories" },
-      { "label": "Collaborations", "href": "#collaborations" }
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Recent Works",
+        "href": "#recent"
+      },
+      {
+        "label": "Selected Stories",
+        "href": "#stories"
+      },
+      {
+        "label": "Collaborations",
+        "href": "#collaborations"
+      }
     ]
   },
   "about": {
-    "title": "About Me",
+    "title": "About",
     "greeting": "Hello",
     "profileImage": "/profile.png?height=400&width=400",
-    "bio": "I am a writer passionate about crafting stories that explore the human condition. My work spans essays, short stories, and narrative journalism, always seeking to illuminate the extraordinary within the ordinary. Through words, I aim to create bridges between cultures, experiences, and perspectives.",
-    "description": "With years of experience in literary writing, I've developed a voice that resonates with readers across different backgrounds. My writing has been featured in various publications, and I continue to explore new narratives that challenge and inspire."
+    "bio": "I am Mohammed Mohammed Mohammed Abu Riya, a Palestinian refugee from the village of Kawkaba. I was born a refugee living in the Jabalia camp, and then I experienced displacement in several areas of Gaza during the genocide war. I study Arabic out of love, not to be stereotyped. I found in my hand a pen that draws its ink from the tragedies my people live, from the stream of tears and blood, and it finds on its page an epic seeking a path to announce itself, sending a greeting to existence. It says to the world: Wait! Behind the sunlight, there are crucified people.",
+    "description": "My ambition extends far, but it insists that the cup of tea in front of the old house in the afternoon should be an important angle of it. I desire a better world that has a real share of peace and love, where individuals get their basic rights with honesty, without crashing into the wall of death imposed by the new kind-hearted colonizers."
   },
   "recentWork": {
-    "title": "Recent Work",
+    "title": "Recent Works",
     "featured": {
       "id": "weight-of-silence",
-      "title": "The Weight of Silence",
-      "type": "Essay",
-      "date": "March 2024",
-      "image": "/placeholder.svg?height=600&width=1200",
-      "excerpt": "An exploration of what remains unsaid in our most intimate relationships, and how silence can speak louder than words. This piece examines the spaces between conversations and the profound meanings we find there.",
-      "readTime": "12 min read",
+      "title": "Whispers of Madness",
+      "type": "This is a literary short story work, published by Samir Mansour Library in Gaza, 2025",
+      "date": "",
+      "image": "/1.jpeg",
+      "excerpt": "In Gaza, which no longer resembles Gaza, in the land that no longer resembles the land, and in the death that sneaks in with the sunlight through the cracks in the walls, the writer tries to summon another memory other than the one that died in the catastrophe.",
+      "readTime": "12 minutes read",
       "link": "#",
-      "content": "Silence has a weight to it. Not the comfortable quiet of a Sunday morning, but the heavy, pressing silence that fills the space between two people who have run out of words.\n\nI first noticed this weight during a dinner with an old friend. We sat across from each other, forks moving mechanically, eyes avoiding contact. The silence wasn't empty—it was full of everything we couldn't say.\n\nIn our modern world, we've become afraid of silence. We fill every moment with noise, with words, with distractions. But what if silence is trying to tell us something? What if the things we don't say are just as important as the things we do?\n\nThis essay explores the spaces between our words, the pauses in our conversations, and the profound meanings we find in what remains unsaid."
+      "content": "Silence has weight. It is not the comfortable quiet of a Sunday morning, but the heavy, suffocating silence that fills the space between two people whose words have run out.\n\nI first noticed this weight during a dinner with an old friend. We sat across from each other, the forks moving mechanically, eyes avoiding contact. The silence wasn’t empty — it was filled with everything we couldn’t say.\n\nIn our modern world, we’ve come to fear silence. We fill every moment with noise, words, distractions. But what if silence is trying to tell us something? What if the things we don’t say are just as important as the things we do say?\n\nThis article explores the spaces between our words, the pauses in our conversations, and the deep meanings we find in what remains unsaid."
     }
   },
   "selectedStories": {
-    "title": "Selected Stories",
+    "title": "Selected Works",
     "stories": [
       {
         "id": "echoes-of-tomorrow",
-        "title": "Echoes of Tomorrow",
-        "type": "Short Story",
-        "date": "January 2024",
-        "image": "/placeholder.svg?height=400&width=600",
-        "excerpt": "A tale of memory and time, where past and future collide in unexpected ways.",
-        "readTime": "8 min read",
+        "title": "A Displaced Journey from Gaza",
+        "type": "Narrative Article",
+        "date": "September 2025",
+        "image": "/2.jpg",
+        "excerpt": "The displacement journey made me forget the way of the pen, and I don’t know if my calling displacement a ‘journey’ is a suitable term; it is everything but a journey, 'It is a recipe with no spoons for us,' as an old man on the displacement road said.",
+        "readTime": "5 minutes read",
         "link": "#",
-        "content": "The clock on the wall had stopped at 3:47, but nobody seemed to notice. Time had become fluid in this place, bending and stretching like taffy in the summer sun.\n\nShe walked through the corridors of her childhood home, but the walls whispered secrets from a future she hadn't lived yet. Each room held memories that hadn't happened, photographs of moments still to come.\n\nThis is a story about the strange loops of time, about how our past and future are more connected than we think, and about the echoes that ripple through our lives in ways we can't always see."
+        "content": "The clock on the wall stopped at 3:47, but no one noticed.\nTime became liquid in this place, bending and stretching like candy under the sun. I forgot the way of the pen in this displacement journey, and I don't know if calling it a 'journey' is suitable; it’s everything but a journey. 'It’s a stew with no spoons for us,' as an old man on the displacement road said.\n\nHow can we snatch a bite of our flesh to share with a beast that burns everything we have: landmarks, memories, streets, and names? A greedy driver treats our pain and wounds as transportable goods, a chance to get rich, asking for a six-month budget. People join the feast, thinking that our modesty is a commodity for profit. They price the scar at the price of an apartment, and the apartment — rent — at the price of paradise!\n\nThe story begins with a long escape on a fake road to salvation, where 'quad' planes begin their piercing screams above your head, and bomb-laden tanks follow, exploding your belongings. You know there’s no chance of surviving a beast that plays with your eyes and your soft body parts. It pushes you out, paving a path for you from Hell to displacement. You take one last look at the remains of the place, embrace your last companions, glance at the last defeated birds, touch the last upright buildings, fill your chest with air you can taste but not smell, and walk down a road that was once your nightmare! Now it’s facing you, and you face it: 'Go south to the valley!'"
       },
       {
         "id": "last-garden",
-        "title": "The Last Garden",
-        "type": "Narrative Essay",
-        "date": "November 2023",
-        "image": "/placeholder.svg?height=400&width=600",
-        "excerpt": "Reflections on nature, loss, and the gardens we carry within ourselves.",
-        "readTime": "10 min read",
+        "title": "Diaries of Gaza in the Presence of Death",
+        "type": "Narrative Article",
+        "date": "August 2025",
+        "image": "/3.jpg",
+        "excerpt": "Reflections on nature, loss, and the gardens we carry within us.",
+        "readTime": "6 minutes read",
         "link": "#",
-        "content": "My grandmother's garden was a universe unto itself. Roses climbed the wooden fence, tomatoes hung heavy on their vines, and somewhere in the back, hidden behind the zucchini plants, was a secret patch of wildflowers that she never tended but somehow always bloomed.\n\nWhen she passed, the garden began to fade. Not all at once, but slowly, like a photograph left too long in the sun. I tried to maintain it, but gardens, I learned, are not just about watering and weeding. They're about love, attention, and a kind of magic that can't be taught.\n\nThis essay is about the gardens we lose and the ones we carry with us, about how nature teaches us to grieve, and about finding beauty in the wild, untended places of our hearts."
+        "content": "My grandmother’s garden was a world in itself. The roses climbed the wooden fence, the tomatoes hung heavy on their vines, and somewhere in the back, hidden behind zucchini plants, there was a secret patch of wildflowers that were never tended to but always bloomed.\n\nWhen she passed, the garden began to fade. Not all at once, but slowly, like a picture left too long in the sun. I tried to preserve it, but gardens, as I learned, aren’t just about watering and weeding. They’re about love and care, and a kind of magic that can’t be taught.\n\nThis article is about the gardens we lose and those we carry with us, about how nature taught us grief, and about finding beauty in the wild, untamed places in our hearts."
       },
       {
         "id": "between-languages",
-        "title": "Between Languages",
-        "type": "Personal Essay",
-        "date": "September 2023",
-        "image": "/placeholder.svg?height=400&width=600",
-        "excerpt": "Growing up between two worlds and finding voice in the space between languages.",
-        "readTime": "15 min read",
+        "title": "Gaza's War Ended Only for the Followers",
+        "type": "Narrative Article",
+        "date": "October 2025",
+        "image": "/4.png",
+        "excerpt": "Trump’s horizon looms in the sky of solution, reconciliation, and peace, so why does the bathroom of the tent people remain loathsome? Why doesn’t the fly recognize the air of a solution and leave the tent space and depart?",
+        "readTime": "5 minutes read",
         "link": "#",
-        "content": "There are words in my mother tongue that don't exist in English. Feelings, concepts, entire ways of being that get lost in translation. And there are English words that feel foreign on my tongue, no matter how many years I've lived here.\n\nI grew up in the space between languages, never quite fluent in either, always translating, always explaining. At school, I was too foreign. At home, I was too American. I existed in a liminal space, a third culture that belonged to neither world and somehow to both.\n\nBut in that in-between space, I found something unexpected: a voice that was uniquely mine. This essay explores what it means to live between languages, between cultures, and how that space of not-quite-belonging can become a place of profound creativity and self-discovery."
+        "content": "There are words in my mother tongue that do not exist in English. Emotions, concepts, entire ways of being that are lost in translation. And there are English words that sound strange on my tongue, no matter how many years I’ve lived. Perhaps the followers have circulated the news of the end of the war on Gaza, but why don’t the people of Gaza believe the truth of the news? Have they grown accustomed to their mood being forever dusty?\n\nWhy doesn’t the Gazan return to his field, return to how it was, and wait for the morning sun in front of his room’s window?\n\nWhy does he insist on using the language of grief, and why does the word Gaza continue to express itself with terms of absence, loss, and death? The Netzerim barrier has been lifted, and now there is a road between the south and the north, so why does Gaza appear as a ghost town?\n\nTrump’s horizon looms in the sky of solution, reconciliation, and peace, so why does the bathroom of the tent people remain loathsome? Why doesn’t the fly recognize the air of a solution and leave the tent space and depart?\n\nMy dear friends, I walked towards Gaza in the most absurd step of my life, relying on old knowledge that my house had become rubble. And yet, I walked 20 kilometers, not for anything other than to get a fresh picture of the destruction… There was no enthusiasm in the pages of the faces of the returnees, no excitement running ahead of their eyes, as though they were practicing a routine: checking your share of destruction, your regular share, and preparing for continuous homelessness!\n\nI crossed streets I thought I didn’t know, but I knew them. What’s the use of describing the destruction again? These scenes I know well, I had witnessed the fall of the north with my own eyes, but I didn’t leave in the first round. The shape of destruction is the same; there is no use crying twice over one corpse.\n\nI continued my way, bypassing the city of Gaza, and walked towards the Jabalia camp to check the destruction of my house and to know my share of the destruction… I neared my arrival, walking through streets I hadn’t been to in six months. I left them full of buildings, but when I returned, I saw them like a hand, a demon, spread across its space like the dust of houses. A desert with yellow sand, feared by the stray dog, and the lost wolf wanders in it!\n\nI reached my neighborhood, which has no relation to my neighborhood. The sounds of gunfire were hot, the tanks were visible to my eyes, the deadly cranes — no, this is our share of modernity, advanced killing machines — Oh God! Aren’t we in a truce? Didn’t Trump promise peace?\n\nBut this is the 'yellow line.'\n\nAnd what does the 'tar line' mean?\n\nNo one knows. It is the excuse for the continuous killing of any Gazan who does not fit the mood of the soldiers who are still devouring half of Gaza. Yes, my friend, half of Gaza is still in the hands of the army, and they are still tearing Gaza apart with colorful teeth, and the watermelon of 'Abu al-Frajyeen,' the comedian, is still being cut and divided until we are in a mosaic of tragedy, with geography spitting us out through the history’s continuum.\n\nI sneaked into the ruins of our house, nothing remained, and nothing was left that could be fixed again. The air laden with tension, and the tanks that surrounded my horizon didn’t allow me moments of grief and farewell. I couldn’t mourn my house, nor even feel its broken walls to see if they had something to say to me before they loosened their grip and let us into oblivion. But all I did was look at the sky, and speak to the tent: 'My dear, you are not a temporary phase, you are my fate, and I am your fate.'"
       }
     ]
   },
   "collaborations": {
     "title": "Collaborations",
-    "description": "I've had the privilege of working with distinguished publications and organizations",
+    "description": "I had the honor of working with prestigious publications and institutions",
     "partners": [
       {
-        "name": "Literary Magazine",
-        "description": "Contributing Writer",
-        "logo": "/placeholder.svg?height=80&width=80"
+        "name": "Samir Mansour",
+        "description": "Publishing House",
+        "logo": "/6.jpg"
       },
       {
-        "name": "Cultural Journal",
-        "description": "Regular Contributor",
-        "logo": "/placeholder.svg?height=80&width=80"
+        "name": "Naqd",
+        "description": "Literary Magazine",
+        "logo": "/5.svg"
       },
       {
-        "name": "Publishing House",
-        "description": "Freelance Editor",
-        "logo": "/placeholder.svg?height=80&width=80"
-      },
-      {
-        "name": "Arts Foundation",
-        "description": "Writer in Residence",
-        "logo": "/placeholder.svg?height=80&width=80"
+        "name": "Dunya Al-Watan",
+        "description": "Online Newspaper",
+        "logo": "/7.png"
       }
     ]
   },
   "footer": {
-    "copyright": "© 2025 All rights reserved",
+    "copyright": "© 2025 All Rights Reserved",
     "contact": "Contact me at: writer@example.com"
   }
 }

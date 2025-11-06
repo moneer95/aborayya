@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { Suspense, useState, useEffect } from "react"
 import { useSearchParams } from "next/navigation"
 import { Header } from "@/components/header"
 import { AboutSection } from "@/components/about-section"
@@ -38,6 +38,8 @@ if (!mounted) {
 }
 
 return (
+  <Suspense fallback={<div>Loading...</div>}>
+
   <div className={`min-h-screen ${isRTL ? "rtl" : "ltr"}`} dir={isRTL ? "rtl" : "ltr"}>
     <Header content={content.header} language={language} onLanguageChange={setLanguage} />
 
@@ -50,5 +52,7 @@ return (
 
     <Footer content={content.footer} language={language} />
   </div>
+  </Suspense>
+
 )
 }
